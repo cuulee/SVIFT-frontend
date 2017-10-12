@@ -2,7 +2,7 @@
 ---
 
 ## Mosaic chart:
-- size
+- size (add another smaller container)
 - fonts
 - padding
 - corner radius rect (rx and ry)
