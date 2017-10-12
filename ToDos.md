@@ -10,7 +10,9 @@
 
 ## Chatbot
 - bubbles more padding
-- table style
+- table 
+    placeholders only first row
+    add/ remove row/column buttons
 
 ## Logic
 - Get input data from table and write to data.json
