@@ -2,17 +2,17 @@
 ---
 
 ## Mosaic chart:
-- size (add another smaller container)
-- fonts
 - padding
 - corner radius rect (rx and ry)
-- sometimes bug (i.e. 65%)
+- fix bug (i.e. 65%)
 
 ## Chatbot
 - bubbles more padding
+- bubble length not uniform
 - table 
     placeholders only first row
     add/ remove row/column buttons
+    style icon selector
 
 ## Logic
 - Get input data from table and write to data.json
