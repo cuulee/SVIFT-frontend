@@ -2,11 +2,11 @@
 ---
 
 ## Mosaic chart:
-- padding
 - corner radius rect (rx and ry)
 - fix bug (i.e. 65%)
 
 ## Chatbot
+- icons bot & human
 - bubbles more padding
 - bubble length not uniform
 - table 
