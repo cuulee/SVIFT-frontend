@@ -1,20 +1,21 @@
 # ToDos:
 ---
 
-## Mosaic chart:
-- corner radius rect (rx and ry)
-- fix bug (i.e. 65%)
+## Seb:
+- Update package (Seb)
+- Theme Konzept (Seb)
+- Boilerplate new (Seb)
+- Waiting bubble boolean (Seb)
 
-## Chatbot
-- icons bot & human
-- human bubble after viz selection
-- bubbles more padding
-- bubble length not uniform
-- table 
-    placeholders only first row
-    add/ remove row/column buttons
-    style icon selector
+## Hans
+- fix bug Mosaic (i.e. 65%) (Hans)
+- bubble length wie text (Hans)
+- Add all thumbs to viz-modules for preview (Hans)
 
-## Logic
-- Get input data from table and write to data.json
-- Make data input reactive with chart on left
+## Alsino
+- icons bot & human (Alsino)
+- Input inactive state
+- bubbles more padding (Alsino)
+- table wird zu 1 input (Alsino)
+- Title / sub zu input
+- download page (Alsino)
