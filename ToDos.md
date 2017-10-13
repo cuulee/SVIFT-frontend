@@ -7,6 +7,7 @@
 
 ## Chatbot
 - icons bot & human
+- human bubble after viz selection
 - bubbles more padding
 - bubble length not uniform
 - table 
