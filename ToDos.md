@@ -13,9 +13,9 @@
 - Add all thumbs to viz-modules for preview (Hans)
 
 ## Alsino
-- icons bot & human (Alsino)
-- Input inactive state
+- fix human bubble #1
+- download page (Alsino)
 - bubbles more padding (Alsino)
 - table wird zu 1 input (Alsino)
 - Title / sub zu input
-- download page (Alsino)
+
