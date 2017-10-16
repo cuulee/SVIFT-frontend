@@ -8,10 +8,11 @@
 - Waiting bubble boolean (Seb)
 
 ## Hans
-- Show tooltip on mosaic squares? (Hans)
 - Add all thumbs to viz-modules for preview (Hans)
+- Show tooltip on mosaic squares? (Hans)
 
 ## Alsino
+- Show Design Template previews (Alsino)
 - fix human bubble #1
 - bubbles more padding (Alsino)
 
