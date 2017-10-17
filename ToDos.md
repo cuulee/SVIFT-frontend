@@ -12,6 +12,7 @@
 - Show tooltip on mosaic squares? (Hans)
 
 ## Alsino
+- choose your visualization bubble
 - Show Design Template previews (Alsino)
 - fix human bubble #1
 - bubbles more padding (Alsino)
