@@ -2,10 +2,7 @@
 ---
 
 ## Seb:
-- Update package
 - Theme Konzept
-- Boilerplate new
-- Waiting bubble boolean
 
 ## Hans
 - Fix fatNr number position
@@ -17,3 +14,4 @@
 - Make Link bubble class with hyperlink
 - Timing and flow of conversation (which bubble shown when)
 - Last bubble (yes/no) add margin
+- Das Grau bei den Texteingabeflächen ist sehr schwach und zumindest bei mir auf dem Bildschirm kaum zu erkennen
