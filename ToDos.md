@@ -13,5 +13,6 @@
 - Add possibility to add source to charts
 
 ## Alsino
-- Show Design Template previews
-
+- Make Link bubble class with hyperlink
+- Timing and flow of conversation (which bubble shown when)
+- Last bubble (yes/no) add margin
