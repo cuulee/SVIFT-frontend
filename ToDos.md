@@ -2,16 +2,16 @@
 ---
 
 ## Seb:
-- Update package (Seb)
-- Theme Konzept (Seb)
-- Boilerplate new (Seb)
-- Waiting bubble boolean (Seb)
+- Update package
+- Theme Konzept
+- Boilerplate new
+- Waiting bubble boolean
 
 ## Hans
-- Add all thumbs to viz-modules for preview (Hans)
-- Show tooltip on mosaic squares? (Hans)
+- Fix fatNr number position
+- Show tooltip on mosaic squares?
+- Add possibility to add source to charts
 
 ## Alsino
-- choose your visualization bubble
-- Show Design Template previews (Alsino)
+- Show Design Template previews
 
