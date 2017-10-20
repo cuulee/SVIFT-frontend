@@ -16,7 +16,7 @@
 - Link to download page for assets
 - Choose final fonts
 
-## Bürokratisch:
+## SVIFT - Bürokratisch:
 - Auszahlung Honorare
 - Änderungsantrag Honorare
 - Reise und Reisekosten HH
