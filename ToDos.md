@@ -3,27 +3,27 @@
 
 ## All
 - Timing and flow of conversation (which bubble shown when)
-- Welche download types anzeigen?
-     png, 
-     svg, 
-     gif,
-     mpeg, 
-     html (embed)
-       png-sequence, 
-       svg-sequence, 
 - Besseren Namen finden für FatNr
 
 ## Seb:
 - Theme Konzept
-- Link to download page for assets
 
 ## Hans
 - Fix fatNr number position
 
 ## Alsino
-- Style templates: only 2 new ones + default violet
+- Animation download icons
+- Link to download page for assets
+- Choose final fonts
+
+## Bürokratisch:
+- Auszahlung Honorare
+- Änderungsantrag Honorare
+- Reise und Reisekosten HH
+- November Termin ausmachen mit der Business Uschi (20.-24.)
 
 ## Future:
+- New charts
 - Style: Gradients in charts
 - Show tooltips on charts
 - Show annotations (i.e. swoopy arrows)
