@@ -2,27 +2,20 @@
 ---
 
 ## All
-- Timing and flow of conversation (which bubble shown when)
-- Besseren Namen finden für FatNr
 
-## Seb:
-- Theme Konzept
+## Seb
 
 ## Hans
-- Fix fatNr number position
 
 ## Alsino
-- Animation download icons
-- Link to download page for assets
 - Choose final fonts
 
-## SVIFT - Bürokratisch:
-- Auszahlung Honorare
-- Änderungsantrag Honorare
+## SVIFT - Bürokratisch
 - Reise und Reisekosten HH
 - November Termin ausmachen mit der Business Uschi (20.-24.)
 
 ## Future:
+- Besseren Namen finden für FatNr
 - New charts
 - Style: Gradients in charts
 - Show tooltips on charts
