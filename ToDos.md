@@ -23,6 +23,7 @@
 - Make sharable, fully functional prototype for user testing:
     - Make all 4 chart types in overview functional
     - Add possibility to add source to charts
+    - Add something like "powered by SVIFT"
     - Setup on server
     - Make Frontend responsive
     - Fix Font-Rendering in exports
