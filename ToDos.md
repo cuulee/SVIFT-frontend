@@ -29,6 +29,8 @@
     - Better Name for FatNr
     - Style: Gradients in charts?
     - Bug-Fixing
+    - Seperate Text from vis-modules
+    - Make bar and column chart
 
 
 ## Future:
