@@ -9,6 +9,9 @@
 
 ## Alsino
 
+## SVIFT - PR
+- Medium Post: About SVIFT and or process
+- Twitter Account
 
 ## SVIFT - Bürokratisch
 - Tickets buchen für Seb und Alsino für HH
