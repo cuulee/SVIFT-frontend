@@ -10,19 +10,28 @@
 ## Alsino
 
 ## SVIFT - PR
-- Medium Post: About SVIFT and or process
+- Contact list
+- Medium Post
+    - Idea behind Svift, who is the team 
+    - Research Findings
+    - Process
+    - Prototype result (screenshots bzw screencast)
 - Twitter Account
 
 ## SVIFT - Bürokratisch
 - Tickets buchen für Seb und Alsino für HH
+- Google Tante (Isa) vollquatschen in HH
 - November Termin ausmachen mit Business Dude (20.-24.)
 
 ## Next steps:
 - Migrate SVIFT to GitHub
 - Accessibility Module
-- Make sharable, fully functional prototype for user testing:
+- Chatbot as own library
+- Chatbot structure and navigation
+
+- Make sharable, fully functional prototype for user testing (until 15 Nov)
     - Make all 4 chart types in overview functional
-    - Add possibility to add source to charts
+    - Only column chart + 1 funky chart
     - Add something like "powered by SVIFT"
     - Setup on server
     - Make Frontend responsive
@@ -31,7 +40,8 @@
     - Style: Gradients in charts?
     - Bug-Fixing
     - Seperate Text from vis-modules
-    - Make bar and column chart
+    - Add possibility to add source to charts
+    
 
 
 ## Future:
