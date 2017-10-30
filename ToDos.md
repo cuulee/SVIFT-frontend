@@ -1,14 +1,6 @@
 # ToDos:
 ---
 
-## All
-
-## Seb
-
-## Hans
-
-## Alsino
-
 ## SVIFT - PR
 - Contact list
 - Medium Post
@@ -20,8 +12,8 @@
 
 ## SVIFT - Bürokratisch
 - Tickets buchen für Seb und Alsino für HH
-- Google Tante (Isa) vollquatschen in HH
-- November Termin ausmachen mit Business Dude (20.-24.)
+- Kontakt zu G herstellen in HH
+- November Termin ausmachen mit Coach (20.-24.)
 
 ## Next steps:
 - Migrate SVIFT to GitHub
