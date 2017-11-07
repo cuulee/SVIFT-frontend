@@ -3,17 +3,9 @@
 
 ## SVIFT - PR
 - Contact list
-- Medium Post
-    - Idea behind Svift, who is the team 
-    - Research Findings
-    - Process
-    - Prototype result (screenshots bzw screencast)
-- Twitter Account
 
 ## SVIFT - Bürokratisch
-- Tickets buchen für Seb und Alsino für HH
 - Kontakt zu G herstellen in HH
-- November Termin ausmachen mit Coach (20.-24.)
 
 ## Next steps:
 - Accessibility Module
